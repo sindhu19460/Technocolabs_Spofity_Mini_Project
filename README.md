@@ -8,3 +8,8 @@ https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge
 
 
 http://www.wsdm-conference.org/2019/wsdm-cup-2019.php
+
+# Requirements
+
+Python
+
